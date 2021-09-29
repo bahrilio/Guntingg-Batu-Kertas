@@ -56,7 +56,7 @@ while (tanya) {
   comp = comp.toUpperCase();
   alert("Kamu memilih : " + user + "\nComputer memilih : " + comp + "\nMaka Hasilnya : Kamu " + hasil);
 
-  tanya = confirm("lagi ?");
+  tanya = confirm("apakah anda ingin bermain lagi ?");
 }
 
 alert("terimakasih sudah bermain dengan saya :v ");
